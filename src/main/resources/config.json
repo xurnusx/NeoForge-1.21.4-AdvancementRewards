@@ -1,0 +1,73 @@
+{
+  "minecraft:story/mine_stone": { "item": "minecraft:raw_iron", "amount": 1 },
+  "minecraft:story/smelt_iron": { "item": "minecraft:raw_iron", "amount": 1 },
+  "minecraft:story/upgrade_tools": { "item": "minecraft:raw_iron", "amount": 1 },
+  "minecraft:story/acquire_iron": { "item": "minecraft:raw_iron", "amount": 1 },
+  "minecraft:story/iron_tools": { "item": "minecraft:iron_ingot", "amount": 2 },
+  "minecraft:story/lava_bucket": { "item": "minecraft:iron_ingot", "amount": 2 },
+  "minecraft:story/iron_pickaxe": { "item": "minecraft:iron_ingot", "amount": 2 },
+  "minecraft:adventure/kill_a_mob": { "item": "minecraft:lapis_lazuli", "amount": 3 },
+  "minecraft:adventure/sleep_in_bed": { "item": "minecraft:raw_iron", "amount": 1 },
+  "minecraft:nether/root": { "item": "minecraft:diamond", "amount": 3 },
+  "minecraft:story/shiny_gear": { "item": "minecraft:diamond", "amount": 3 },
+  "minecraft:story/enchant_item": { "item": "minecraft:diamond", "amount": 3 },
+  "minecraft:story/follow_ender_eye": { "rewards": [
+    { "item": "minecraft:diamond", "amount": 5 },
+    { "item": "minecraft:experience_bottle", "amount": 25 }
+  ]},
+  "minecraft:end/root": { "item": "minecraft:potion", "potion": "minecraft:strength", "duration": 180 },
+  "minecraft:adventure/cure_zombie_villager": { "rewards": [
+    { "item": "minecraft:golden_apple", "amount": 5 },
+    { "item": "minecraft:experience_bottle", "amount": 50 }
+  ]},
+  "minecraft:nether/find_bastion": { "rewards": [
+    { "item": "minecraft:raw_gold", "amount": 3 },
+    { "item": "minecraft:diamond", "amount": 1 }
+  ]},
+  "minecraft:nether/obtain_ancient_debris": { "rewards": [
+    { "item": "minecraft:raw_gold", "amount": 3 },
+    { "item": "minecraft:ancient_debris", "amount": 1 }
+  ]},
+  "minecraft:nether/ride_strider": { "rewards": [
+    { "item": "minecraft:raw_gold", "amount": 3 },
+    { "item": "minecraft:ancient_debris", "amount": 1 }
+  ]},
+  "minecraft:adventure/kill_wither_skeleton": { "rewards": [
+    { "item": "minecraft:ancient_debris", "amount": 1 },
+    { "item": "minecraft:ender_pearl", "amount": 2 }
+  ]},
+  "minecraft:nether/obtain_blaze_rod": { "rewards": [
+    { "item": "minecraft:ancient_debris", "amount": 1 },
+    { "item": "minecraft:ender_pearl", "amount": 2 }
+  ]},
+  "minecraft:nether/fast_travel": { "rewards": [
+    { "item": "minecraft:diamond", "amount": 5 },
+    { "item": "minecraft:ancient_debris", "amount": 1 },
+    { "item": "minecraft:netherite_upgrade_smithing_template", "amount": 1 }
+  ]},
+  "minecraft:end/dragon_egg": { "rewards": [
+    { "item": "minecraft:netherite_ingot", "amount": 2 }
+  ]},
+  "minecraft:adventure/sniper_duel": { "item": "minecraft:enchanted_book", "enchantment": "minecraft:flame" },
+  "minecraft:nether/summon_wither": { "rewards": [
+    { "item": "minecraft:golden_apple", "amount": 3 }
+  ]},
+  "minecraft:adventure/two_birds_one_arrow": { "item": "minecraft:enchanted_book", "enchantment": "minecraft:punch", "level": 2 },
+  "minecraft:adventure/village_hero": { "item": "minecraft:enchanted_book", "enchantment": "minecraft:protection", "level": 4 },
+  "minecraft:adventure/bullseye": { "item": "minecraft:enchanted_book", "enchantment": "minecraft:multishot" },
+  "minecraft:end/elytra": { "rewards": [
+    { "item": "minecraft:gunpowder", "amount": 25 },
+    { "item": "minecraft:experience_bottle", "amount": 25 }
+  ]},
+  "minecraft:adventure/spyglass_at_parrot": { "item": "minecraft:enchanted_book", "enchantment": "minecraft:luck_of_the_sea", "level": 1 },
+  "minecraft:adventure/spyglass_at_ghast": { "item": "minecraft:enchanted_book", "enchantment": "minecraft:feather_falling", "level": 3 },
+  "minecraft:adventure/postmortal": { "item": "minecraft:enchanted_book", "enchantment": "minecraft:mending" },
+  "minecraft:nether/return_to_sender": { "rewards": [
+    { "item": "minecraft:diamond", "amount": 3 },
+    { "item": "minecraft:ancient_debris", "amount": 1 }
+  ]},
+  "minecraft:adventure/two_by_two": { "item": "minecraft:golden_apple", "amount": 2 },
+  "minecraft:adventure/a_seedy_place": { "item": "minecraft:potato", "amount": 3 },
+  "minecraft:adventure/fishy_business": { "item": "minecraft:potato", "amount": 3 },
+  "minecraft:adventure/balanced_diet": { "item": "minecraft:golden_apple", "amount": 10 }
+}
